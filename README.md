@@ -28,6 +28,12 @@ To install the necessary dependencies, run the following command:
 pip install -r requirements.txt
 ```
 
+## Execution
+To Run the app simply run the following command:
+```sh
+streamlit run main.py
+```
+
 ## Usage
 To run the project, follow these steps:
 1. Update [`config.yaml`](command:_github.copilot.openSymbolFromReferences?%5B%22config.yaml%22%2C%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22r%3A%5C%5CThe-Grand-Complete-Data-Science-Materials-main%5C%5CML%20Projects%5C%5CIndian-Coin-Detection%5C%5CREADME.md%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fr%253A%2FThe-Grand-Complete-Data-Science-Materials-main%2FML%2520Projects%2FIndian-Coin-Detection%2FREADME.md%22%2C%22path%22%3A%22%2Fr%3A%2FThe-Grand-Complete-Data-Science-Materials-main%2FML%20Projects%2FIndian-Coin-Detection%2FREADME.md%22%2C%22scheme%22%3A%22file%22%7D%2C%22pos%22%3A%7B%22line%22%3A25%2C%22character%22%3A10%7D%7D%5D%5D "Go to definition")
@@ -66,4 +72,4 @@ Coin-Detection-Project/
 ## Contact
 - **LinkedIn**: [linkedin.com/in/rayyan-ahmed9477](https://www.linkedin.com/in/rayyan-ahmed9477/)
 - **Email**: [rayyanahmed265@yahoo.com](mailto:rayyanahmed265@yahoo.com)
-```
+
