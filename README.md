@@ -1,4 +1,3 @@
-```markdown
 # Coin Detection Project
 
 ## Description
@@ -65,9 +64,6 @@ Coin-Detection-Project/
 5. Update the configuration manager in `src/config`
 
 ## Contact
-- **LinkedIn**: [linkedin.com/in/pradhan-debasish](https://www.linkedin.com/in/rayyan-ahmed9477/)
-- **Email**: [pradhandebasish2046@gmail.com](mailto:pradhandebasish2046@gmail.com)
-- **GitHub**: [Coin Detection Repository](https://github.com/pradhandebasish2046/Indian-Coin-Detection)
+- **LinkedIn**: [linkedin.com/in/rayyan-ahmed9477](https://www.linkedin.com/in/rayyan-ahmed9477/)
+- **Email**: [rayyanahmed265@yahoo.com](mailto:rayyanahmed265@yahoo.com)
 ```
-
-This updated [`README.md`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fr%3A%2FThe-Grand-Complete-Data-Science-Materials-main%2FML%20Projects%2FIndian-Coin-Detection%2FREADME.md%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "r:\The-Grand-Complete-Data-Science-Materials-main\ML Projects\Indian-Coin-Detection\README.md") file provides a clear and professional overview of the project, including the libraries and techniques used.
